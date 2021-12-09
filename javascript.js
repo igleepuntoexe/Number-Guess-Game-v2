@@ -83,6 +83,7 @@ if (opt == 1){
                 //We do data.push(num) to add the numbers to the array
                 data.push(num)
             }else if(num == random){
+                data.push(num)
                 alert("You got it!")
                 alert("Congratulations " + name + ". You are the best <3")
                 /*Now what we do is that the numbers entered in the array appear and by putting 
