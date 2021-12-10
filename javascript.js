@@ -6,7 +6,7 @@ or you can talk to me through discord, my username is: igle.exe # 8778. Thanks f
 alert("Welcome to the Game of Guess the Number gentleman, before continuing tell me your name")
 let name = prompt("Tell me your name")
 alert("Choose an option")
-let opt = Number(prompt("1) Easy level / 2) Medium level / 3) Hard level / 4) IA vs Human / 5) Exit"))
+let opt = Number(prompt("1) Easy level / 2) Middle level / 3) Hard level / 4) IA vs Human / 5) Exit"))
 //We create an array in which we will enter the numbers that we enter in the prompts on lines 20, 47 and 71 and also for the IA vs human
 let data = []
 //We create a new array to which we are going to add the numbers that exceed the limit
