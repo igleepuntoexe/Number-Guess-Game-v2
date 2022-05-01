@@ -1,6 +1,6 @@
 /*Welcome to the Guess the Number Game. Made by @Igleepuntoexe on GitHub. 
 If you have any questions, you can consult me through my gmail: adriiglesias2016@gmail.com 
-or you can talk to me through discord, my username is: igle.exe # 8778. Thanks for reading this little snippet <3*/
+or you can talk to me through discord, my username is: igle.exe#8778. Thanks for reading this little snippet <3*/
 
 //Declaration of variables for the name and options
 alert("Welcome to the Game of Guess the Number gentleman, before continuing tell me your name")
